@@ -6,5 +6,5 @@ A theme based on the Made of Code TextMate theme.
 
 
 ## More Information
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Brogrammer).
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/brian-yu.made-of-code).
 * [GitHub repository](https://github.com/brian-yu/made-of-code-vscode).
