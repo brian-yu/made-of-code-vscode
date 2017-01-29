@@ -2,7 +2,7 @@
     "name": "made-of-code",
     "displayName": "Made of Code",
     "description": "Made of Code Theme ported from the Made of Code TextMate Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "brian-yu",
     "engines": {
         "vscode": "^1.5.0"
