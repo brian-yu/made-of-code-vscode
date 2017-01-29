@@ -1,0 +1,22 @@
+{
+    "name": "made-of-code",
+    "displayName": "Made of Code",
+    "description": "Made of Code",
+    "version": "0.0.1",
+    "publisher": "brian-yu",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Made of Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/made-of-code.tmTheme"
+            }
+        ]
+    }
+}
