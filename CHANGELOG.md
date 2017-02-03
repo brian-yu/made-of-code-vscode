@@ -4,7 +4,7 @@
 ### Changed
 - Working on better coloring for Markdown files and JSON files
 
-## 0.0.4 - 2017-01-29
+## 0.0.5 - 2017-01-29
 ### Added
 - Brighten colors for code comments and additional CSS constants
 
