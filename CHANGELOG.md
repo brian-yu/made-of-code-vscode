@@ -6,6 +6,10 @@
 
 ## 0.0.4 - 2017-01-29
 ### Added
+- Brighten colors for code comments and additional CSS constants
+
+## 0.0.4 - 2017-01-29
+### Added
 - Update Changelog and various other Marketplace information
 
 ## 0.0.3 - 2017-01-29
